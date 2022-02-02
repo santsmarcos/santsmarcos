@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @santsmarcos
+- 👀 I’m interested in learning python and javascript
+- 🌱 I’m currently learning on the Rocketseat platform
+- 💞️ I'm looking to learn and improve on my own projects
